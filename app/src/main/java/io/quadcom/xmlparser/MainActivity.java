@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.widget.TextView;
+import android.widget.Toast;
 import java.io.IOException;
 import java.io.InputStream;
 import javax.xml.parsers.DocumentBuilder;
