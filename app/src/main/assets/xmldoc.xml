@@ -2,15 +2,15 @@
 <list>
     
 	<tag
-		atribbute1="ABCD"
-		atttibute2="EFGH"/>
+		attribute1="ABCD"
+		attribute2="EFGH"/>
 		
 	<tag
-		atribbute1="IJKL"
-		atttibute2="LMNO"/>
+		attribute1="IJKL"
+		attribute2="LMNO"/>
 	
 	<tag
-		atribbute1="PQRS"
-		atttibute2="TUVW"/>
+		attribute1="PQRS"
+		attribute2="TUVW"/>
 	
 </list>
