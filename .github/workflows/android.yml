@@ -24,5 +24,6 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
-    - name: Download a Build Artifact
-      uses: actions/download-artifact@v3.0.0
+    - name: actions-android-ci
+      uses: xdtianyu/actions-android-ci@v1.3.0
+
